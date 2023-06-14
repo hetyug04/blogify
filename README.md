@@ -29,6 +29,8 @@ Mongoose Schemas**
 * **Bcrypt Password Encryption**
 * **Validator Email Validation**
 * **User Registration and Login**
+* **API Limiting**
+* **Helmet and Mongo Sanitize server handling**
 
 
 
@@ -239,6 +241,6 @@ export default errorHandlerMiddleware;
 
 By the way alot of this I did after I hooked it up to the front end side of the application, I used **Proxy-Middle-Ware** to set up a client to server proxy, because for some reason a normal proxy in the `package.json` wasn't working. To handle the actual requests and responses, I used the **Axios** library to fetch data and display it on the front-end. This whole process, of getting user information, preprocessing it with **Mongoose**, uploading it to my **MongoDB** database and retriving it using **Axios** was repeated for (like I said before) for both `User` and `Post` handling. 
 
-This `README.MD` is short explanation of how I set up my application, in both front end and backend, ill include a full list of stuff at the end if you're interested. Blogify is going to be hosted on Netlify, with the backend being hosted on Heroku. If you find any bugs, find my project interesting, or want to hire me, you can either email me at hetyug04@gmail.com or check out my other projects <a href="hpatel.netlify.app" target="_blank">here</a>
+This `README.MD` is short explanation of how I set up my application, in both front end and backend, ill include a full list of stuff at the end if you're interested. Blogify is going to be hosted on Render. If you find any bugs, find my project interesting, or want to hire me, you can either email me at hetyug04@gmail.com or check out my other projects <a href="hpatel.netlify.app" target="_blank">here</a>
 
 #
