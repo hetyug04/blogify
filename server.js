@@ -25,12 +25,7 @@ app.use(helmet())
 app.use(xss())
 app.use(mongoSanitize())
 //middleware
-app.get("/", (req, res) => {
-  res.send("Welcome");
-});
-app.get("/home", (req, res) => {
-  res.json({ msg: "it works" });
-});
+
 app.get("/api/v1", (req, res) => {
   res.json({ msg: "API" });
 });
