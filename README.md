@@ -240,3 +240,5 @@ By the way alot of this I did after I hooked it up to the front end side of the 
 
 This `README.MD` is short explanation of how I set up my application, in both front end and backend, ill include a full list of stuff at the end if you're interested. Blogify is going to be hosted on Netlify, with the backend being hosted on Heroku. If you find any bugs, find my project interesting, or want to hire me, you can either email me at hetyug04@gmail.com or check out my other projects <a href="hpatel.netlify.app" target="_blank">here</a>
 
+#   b l o g i f y  
+ 
