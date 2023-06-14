@@ -1,7 +1,7 @@
 
 # Blogify 
 ##📖About
-Blogify is an online blogging platform developed using the MERN Stack. Talk about anything and everything easily using the quick and easy posting system, and use the quick and easy tagging system to make them easy to find, or you can follow your favorite accounts and get their posts immediately into a personalized feed. Come check it out <a href="blogifyapp.netlify.app">here</a>
+Blogify is an online blogging platform developed using the MERN Stack. Talk about anything and everything easily using the quick and easy posting system, and use the quick and easy tagging system to make them easy to find, or you can follow your favorite accounts and get their posts immediately into a personalized feed. Come check it out <a href="https://blogify-wyp0.onrender.com/">here</a>
 
 **Test Account Login**: Email: test@hotmail.com Password: testPassword
 
